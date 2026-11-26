@@ -1,0 +1,6 @@
+{
+  "name": "Sri Lanka Disaster Management Information System",
+  "description": "Offline-first Progressive Web App for Sri Lankan disaster management, field assessments, relief tracking, multi-device merge, and Supabase PostgreSQL synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
